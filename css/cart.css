@@ -1,0 +1,31 @@
+.addcart{
+    margin-top: 5rem !important;
+}
+
+.addcart table{
+    width:100%;
+    border-collapse: collapse;
+    font-size: 1.7rem;
+}
+
+.addcart .product-info{
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.addcart th{
+    text-align: left;
+    padding: 5px 10px;
+    color: #fff;
+    background: var(--pink);
+}
+
+.addcart td{
+    padding: 10px 20px;
+}
+
+.addcart td input{
+    width: 40%;
+    height: 30px;
+    padding: 5px;
+}
